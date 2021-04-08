@@ -1,0 +1,67 @@
+#style-switcher h2 a { background: #49c5b6 none repeat scroll 0 0 ;}
+
+.status-mes{
+	border-left: 4px solid #49c5b6;
+}
+.btn-home-border,
+#mailchimp-form button,
+.carousel-control-next i:hover, 
+.carousel-control-prev i:hover{
+	background: #49c5b6;
+	border-color: #49c5b6;
+}
+.about-content li i,
+.portfolio_filter ul li,
+.pricingTable .pricing-content li i,
+.single-contact i{
+	background-color: rgba(73, 197, 182, 0.1);
+}
+.section-title span,
+.about-content li i,
+.counter i,
+.single_service i.ser_icon,
+.portfolio_filter ul li,
+.test_content span,
+.port-cat,
+.single-slide-item span,
+.pricingTable .pricing-content li i,
+.single-team p,
+.blog_content h3 a:hover,
+.single-contact i,
+a, a:hover{
+	color: #49c5b6;
+}
+.section-title span:before,
+.single_about .about_icon,
+.counter_feature,
+.progress-bar > span,
+.single_feature .feat_icon i,
+.our_video a,
+.portfolio_filter .active,
+.testi_img i,
+.port-icon,
+.section-title.text-center span:after,
+.team-social li a,
+.blog_cat a,
+.blog_btn,
+#topcontrol,
+.single_about:hover .about_icon,
+.header_top,
+.navbar-fixed,
+.project-info i,
+.portfolio-slider .slick-arrow,
+.slicknav_btn,
+#topcontrol:hover,
+#topcontrol:focus{
+	background-color: #49c5b6;
+
+}
+
+.single_service i.ser_icon,
+.form-control:focus{
+	border-color: #49c5b6;
+}
+
+.owl-theme .owl-controls .owl-page span{
+	background-color: #49c5b6!important;
+}
